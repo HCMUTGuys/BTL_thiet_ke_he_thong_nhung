@@ -35,7 +35,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define LCD_BACKLIGHT 0x08     // Turn on light
+#define LCD_BACKLIGHT 0x08     /// Turn on light
 #define LCD_NOBACKLIGHT 0x00  // Turn off light
 #define addr_pcf8574 0x4E
 #define address_so_luong_the_storage 0x08000000 + 61*1024 //page 61
